@@ -1,0 +1,13 @@
+User Stories
+--------------
+
+As a Player
+I want to place Ships on Battle Area
+
+As a Player
+I want to attack enemies Ships
+so that they sink
+
+As a Player
+I want to destroy all enemy Ships
+so that I win the game
